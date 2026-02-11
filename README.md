@@ -11,7 +11,7 @@ Minimal example monorepo for a **Better Auth face-auth plugin** powered by Face+
 ## Documentation
 
 - Monorepo setup and local run steps: this file
-- 🚨 Must read to understand the plugin: `packages/better-auth-face/README.md` (flows, API, schema, options)
+- 🚨 Must read to understand the plugin: [packages/better-auth-face/README.md](packages/better-auth-face/README.md) (flows, API, schema, options)
 
 This keeps root docs short and avoids repeating the same detailed plugin explanation in two places.
 
