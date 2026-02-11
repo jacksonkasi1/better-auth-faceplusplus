@@ -1,6 +1,6 @@
 # better-auth-faceplusplus
 
-Minimal example monorepo for a **Better Auth face-auth plugin** powered by Face++:
+Minimal example monorepo for a **Better Auth face-auth plugin** powered by [Face++](https://www.faceplusplus.com):
 
 - `apps/web`: Vite + React face sign-up/sign-in UI
 - `apps/server`: Hono server exposing Better Auth endpoints
